@@ -1,5 +1,5 @@
 ## Hi, I'm Sojib Islam 👋
-[<img src='https://github.com/UnknownSojib/UnknownSojib/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/UnknownSojib/)
+[<img src='https://github.com/UnknownSojib/UnknownSojib/blob/main/img/bg.jpg?raw=true' alt='Sojib Islam'>](https://github.com/UnknownSojib/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
