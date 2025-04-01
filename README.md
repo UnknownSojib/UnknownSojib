@@ -28,6 +28,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 
 ## 📧 For Business Inquiries 
-✅  ► +880 1970 560010 </br>
+✅  ► +880 1970 560070 </br>
 ✅  ► sojibstudio5821@gmail.com
 
